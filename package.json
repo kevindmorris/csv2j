@@ -1,0 +1,24 @@
+{
+  "name": "csv2j",
+  "version": "1.0.0",
+  "description": "CLI to convert CSV to JSON with number and boolean coercion.",
+  "keywords": [
+    "csv",
+    "json",
+    "cli",
+    "converter"
+  ],
+  "license": "MIT",
+  "author": "Kevin Morris",
+  "type": "module",
+  "bin": {
+    "csv2j": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "yargs": "^18.0.0"
+  }
+}

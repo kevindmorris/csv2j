@@ -1,0 +1,21 @@
+product_id,name,in_stock,price,rating
+1001,Widget A,true,19.99,4.5
+1002,Widget B,false,29.95,3.9
+1003,Gadget X,true,99.5,4.8
+1004,Gadget Y,true,149.99,4.2
+1005,Doohickey,true,5.0,3.1
+1006,Thingamajig,false,12.49,2.8
+1007,Whatsit,true,7.99,4.0
+1008,Contraption,true,250.0,4.9
+1009,Device Z,false,199.95,4.3
+1010,Apparatus,true,0.0,3.5
+1011,Instrument,true,49.99,4.1
+1012,Toolset,false,89.0,3.7
+1013,Module,true,29.0,4.6
+1014,Component,true,15.5,4.0
+1015,Gizmo,false,59.99,3.8
+1016,Mechanism,true,110.0,4.7
+1017,Engine,true,499.99,4.9
+1018,Processor,false,299.5,4.4
+1019,Adapter,true,9.99,3.9
+1020,Accessory,true,14.95,4.0

@@ -1,0 +1,21 @@
+event_name,date,attendees,virtual,notes
+Hackathon,2025-08-10,120,true,"Open to students"
+Conference,2025-09-15,450,false,"Annual summit"
+Webinar on Go,2025-07-20,800,true,Recording available
+Local Meetup,2025-08-05,35,false,Free pizza
+Product Launch,2025-10-01,200,false,Invite only
+Workshop AI,2025-08-22,60,true,"Hands-on"
+Networking Night,2025-09-03,150,false,
+Demo Day,2025-07-30,90,true,"Startups pitch"
+Charity Gala,2025-11-12,300,false,"Black tie"
+Tech Talk,2025-08-18,110,true,
+Code Sprint,2025-09-21,75,false,"24-hour event"
+Design Review,2025-07-27,25,false,"Internal only"
+Security Briefing,2025-08-30,40,true,
+Beta Test,2025-10-10,500,true,"Limited access"
+User Group,2025-09-08,80,false,
+Career Fair,2025-10-05,1000,false,"Universities invited"
+Open Source Day,2025-08-12,220,true,
+Product Feedback,2025-07-25,55,false,
+Hack Night,2025-09-27,130,true,"Late hours"
+Innovation Expo,2025-11-05,600,false,"Public"

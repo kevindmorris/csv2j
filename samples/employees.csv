@@ -1,0 +1,21 @@
+name,age,full_time,salary,notes
+Alice,30,true,85000,Team lead
+Bob,45,false,55000,Part-time contractor
+Charlie,25,true,48000,
+Dana,38,true,92000,Senior engineer
+Eve,29,true,72000,"Works remote"
+Frank,50,false,0,On sabbatical
+Grace,33,true,67000,"Promoted recently"
+Heidi,27,true,58000,
+Ivan,41,true,88000,"5 years at company"
+Judy,22,false,30000,Intern
+Karl,60,true,105000,"Executive"
+Liam,34,true,73000,
+Mia,28,true,69000,"High performer"
+Nina,31,false,40000,Contractor
+Oscar,26,true,51000,
+Peggy,37,true,80000,"Mentor"
+Quentin,44,false,62000,
+Rita,39,true,90000,"Team lead"
+Sam,23,true,47000,
+Tina,55,true,98000,"Legacy system expert"
