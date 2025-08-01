@@ -1,6 +1,6 @@
 {
   "name": "csv2j",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI to convert CSV to JSON with number and boolean coercion.",
   "keywords": [
     "csv",
